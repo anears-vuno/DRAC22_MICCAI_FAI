@@ -1,5 +1,5 @@
 # DRAC22_FAI
-[![DOI](https://zenodo.org/badge/727103328.svg)](https://zenodo.org/doi/10.5281/zenodo.10254192)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10369285.svg)](https://doi.org/10.5281/zenodo.10369285)  
 1st place solutions in the Diabetic Retinopathy Assessment Challenge ([DRAC22](https://drac22.grand-challenge.org/evaluation/challenge/leaderboard/)) 
 
 ![drac](/imgs/drac_image.png)
